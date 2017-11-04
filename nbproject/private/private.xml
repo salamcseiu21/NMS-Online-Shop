@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/admin-profile.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/profile/main-content.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/PageController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/profile/user-main-content.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/profile/view-message.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/profile/my-profile.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/send-message.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/CartController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/ProfileController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/profile/my-order.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/sub-footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/profile/send-message.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/ProductCategoryController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/update-category.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/profile/change-password.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/add-product-category.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/add-product.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/send-mail.blade.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/app/Http/Controllers/ProductController.php</file>
+            <file>file:/C:/xampp/htdocs/nmsonlineshop.com/resources/views/admin/pages/order-details.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
